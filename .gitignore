@@ -1,0 +1,13 @@
+*.pyc
+*~
+*REMOTE*
+*BASE*
+*LOCAL*
+*BACKUP*
+*.orig
+**/.cache/*
+*.remote
+**venv*/
+*.local
+*#
+tmp/*
